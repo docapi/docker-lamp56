@@ -1,0 +1,2 @@
+172.20.0.1 - - [05/Nov/2018:21:46:01 +0000] "GET /info.php HTTP/1.1" 200 23916 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
+172.20.0.1 - - [05/Nov/2018:21:46:03 +0000] "GET /favicon.ico HTTP/1.1" 404 503 "http://myweb.test:8000/info.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
